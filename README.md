@@ -1,1 +1,1 @@
-Hard coded with no logic just manual labour
+Hard coded DSA with no logic just manual labour
